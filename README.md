@@ -7,7 +7,6 @@ My latest project is using data from Spotify APIs to analyze trends in popular s
 
 I have a passion for learning new programming languages. In my free time away from the computer I enjoy woodwork, comedy shows, and chatting with my :smiley_cat:, Wednesday.
 
-I'd love to connect on [![LinkedIn][3.2]][3].
 ### You can check out some of the new vegan dishes that I cook @makingyum on Instagram :avocado:. 
 
 <!--Icons-->
